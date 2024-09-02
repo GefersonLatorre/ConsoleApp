@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+  <ConnectionStrings>
+    <add name="DefaultConnection" connectionString="Server=DESKTOP-EJ49IA3;Database=Empresa;Integrated Security=True;" />
+  </ConnectionStrings>
+  <LogFilePath>logfile.txt</LogFilePath>
+</Configuration>
+
